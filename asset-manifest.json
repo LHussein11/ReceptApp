@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ReceptApp/static/css/main.c36108f6.chunk.css",
+    "main.js": "/ReceptApp/static/js/main.690d58f4.chunk.js",
+    "main.js.map": "/ReceptApp/static/js/main.690d58f4.chunk.js.map",
+    "runtime-main.js": "/ReceptApp/static/js/runtime-main.fe93f346.js",
+    "runtime-main.js.map": "/ReceptApp/static/js/runtime-main.fe93f346.js.map",
+    "static/js/2.d0ea715f.chunk.js": "/ReceptApp/static/js/2.d0ea715f.chunk.js",
+    "static/js/2.d0ea715f.chunk.js.map": "/ReceptApp/static/js/2.d0ea715f.chunk.js.map",
+    "index.html": "/ReceptApp/index.html",
+    "static/css/main.c36108f6.chunk.css.map": "/ReceptApp/static/css/main.c36108f6.chunk.css.map",
+    "static/js/2.d0ea715f.chunk.js.LICENSE.txt": "/ReceptApp/static/js/2.d0ea715f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe93f346.js",
+    "static/js/2.d0ea715f.chunk.js",
+    "static/css/main.c36108f6.chunk.css",
+    "static/js/main.690d58f4.chunk.js"
+  ]
+}
